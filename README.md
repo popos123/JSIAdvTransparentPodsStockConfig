@@ -9,3 +9,5 @@ and this mod is not compatible with: https://github.com/FirstPersonKSP/RasterPro
 (ok, it could be compatible using: https://github.com/FirstPersonKSP/reviva by switching IVAs to fly or to view from 3rd person)
 Pictures:
 ![transparent_pods](https://github.com/popos123/JSIAdvTransparentPodsStockConfig/assets/43697578/2a9fd0f2-96c8-456a-b075-6a8ac3ee8200)
+
+If somebody know or want to fix this IVA replacement to Mask replacement to work with JSI please make a pull request, becouse i dont have any idea.
